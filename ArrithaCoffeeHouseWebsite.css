@@ -1,0 +1,420 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+Body {
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+}
+
+.HeaderBar {
+	position: fixed;
+    z-index: 3;
+    left: 0px;
+    top: 0px;
+}
+
+.ArrithaHeader {
+    position: absolute;
+    z-index: 2;
+    font-family: "Fraunces 9pt";
+    font-size: 150px;
+    color: #F3F1EC;
+    text-align: center;
+    top: 188px;
+    left: 187px;
+}
+
+.HomeHeader {
+    position: fixed;
+    z-index: 3;
+    font-family: 'New Spirit Medium';
+    font-size: 30px;
+    color: #F3F1EC;
+    text-align: center;
+    top: 11px;
+    left: 33px;
+}
+
+.CoffeeHeader {
+    position: fixed;
+    z-index: 3;
+    font-family: 'New Spirit Medium';
+    font-size: 30px;
+    color: #F3F1EC;
+    text-align: center;
+    top: 11px;
+    left: 169px;
+}
+
+.BakeryHeader {
+    position: fixed;
+    z-index: 3;
+    font-family: 'New Spirit Medium';
+    font-size: 30px;
+    color: #F3F1EC;
+    text-align: center;
+    top: 11px;
+    left: 312px;
+}
+
+.AboutHeader {
+    position: fixed;
+    z-index: 3;
+    font-family: 'New Spirit Medium';
+    font-size: 30px;
+    color: #F3F1EC;
+    text-align: center;
+    top: 11px;
+    left: 464px;
+}
+
+.LoginHeader {
+    position: fixed;
+    z-index: 3;
+    font-family: 'New Spirit Medium';
+    font-size: 30px;
+    color: #F3F1EC;
+    text-align: center;
+    top: 11px;
+    left: 601px;
+}
+
+.RewardsPicture {
+    z-index: 3;
+    position: absolute;
+    top: 967px;
+    left: 832px;
+}
+
+.RewardsIcon {
+    z-index: 3;
+    position: absolute;
+    top: 1604px;
+    left: 189px;
+}
+
+.Family {
+    z-index: 3;
+    position: absolute;
+    top: 1050px;
+    left: 238px;
+    color: #FFFFFF;
+    font-family: "New Spirit SemiBold";
+	font-style: italic;
+    font-size: 90px;
+}
+
+.Friends {
+    z-index: 3;
+    position: absolute;
+    top: 1143px;
+    left: 671px;
+    font-size: 90px;
+    color: #FFFFFF;
+    font-family: "New Spirit SemiBold";
+	font-style: italic;
+}
+
+.Everyone {
+    z-index: 3;
+    position: absolute;
+    top: 1229px;
+    left: 670px;
+    color: #FFFFFF;
+    font-family: "New Spirit SemiBold";
+	font-style: italic;
+    font-size: 90px;
+}
+
+.SeasonalDrops {
+    position: absolute;
+    z-index: 2;
+    font-family: Aloevera;
+    font-size: 80px;
+    color: #F3F1EC;
+    top: 1856px;
+    left: 554px;
+}
+
+.SeasonalDropsLine {
+    position: absolute;
+    z-index: 2;
+    top: 2740px;
+    left: 554px;
+}
+
+.SeasonalDropsBoxes {
+    position: absolute;
+    z-index: 2;
+    top: 2034px;
+    left: 229px;
+}
+
+
+.MenuTitle {
+    position: absolute;
+    z-index: 2;
+    font-family: "Fraunces 9pt";
+	font-weight: bold;
+	font-style: italic;
+    font-size: 100px;
+    color: #F3F1EC;
+    top: 2954px;
+    left: 799px;
+}
+
+.MenuTitleLeft {
+    position: absolute;
+    z-index: 3;
+    top: 3078px;
+    left: 752px;
+}
+
+.MenuTitleRight {
+    position: absolute;
+    z-index: 3;
+    top: 3085px;
+    left: 1103px;
+}
+
+.MenuLine {
+    position: absolute;
+    z-index: 2;
+    top: 3177px;
+    left: 554px;
+}
+
+.CoffeeIcons {
+    position: absolute;
+    z-index: 3;
+    top: 2818px;
+    left: 342px;
+}
+
+.CoffeeMenu {
+    position: absolute;
+    z-index: 2;
+    font-family: 'Fraunces 9pt';
+    font-style: italic;
+    font-weight: bold;
+    font-size: 55px;
+    color: #F3F1EC;
+    text-align: center;
+    top: 3144px;
+    left: 159px;
+}
+
+.OtherMenu {
+    position: absolute;
+    z-index: 2;
+    font-family: 'Fraunces 9pt';
+    font-style: italic;
+    font-weight: bold;
+    font-size: 55px;
+    color: #F3F1EC;
+    text-align: center;
+    top: 3893px;
+    left: 159px;
+}
+
+.BakeryMenu {
+    position: absolute;
+    z-index: 2;
+    font-family: 'Fraunces 9pt';
+    font-style: italic;
+    font-weight: bold;
+    font-size: 55px;
+    color: #F3F1EC;
+    top: 4636px;
+    left: 159px;
+}
+
+.CoffeeMenuBlocks {
+    position: absolute;
+    z-index: 2;
+    top: 3296px;
+    left: 144px;
+}
+
+.CoffeeMenuBlocksLine {
+    z-index: 2;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 364px;
+    margin-top: -2230px;
+}
+
+.OtherMenuBlocks {
+    position: absolute;
+    z-index: 2;
+    top: 4042px;
+    left: 144px;
+}
+
+.OtherMenuBlocksLine {
+    z-index: 2;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 364px;
+    margin-top: 765px;
+}
+
+.BakeryMenuBlocks {
+    position: absolute;
+    z-index: 2;
+    top: 4787px;
+    left: 144px;
+}
+
+.BakeryMenuBlocksLine {
+    z-index: 2;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 364px;
+    margin-top: 755px;
+}
+
+
+.FooterLogo {
+    position: absolute;
+    z-index: 2;
+    top: 5633px;
+    left: 28px;
+}
+
+.FooterSocialMediaIcons {
+    position: absolute;
+    z-index: 2;
+    top: 5941px;
+    left: 249px;
+}
+
+.ServicesTitleFooter {
+    position: absolute;
+    z-index: 2;
+    font-family: "New Spirit SemiBold";
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+    color: #F3F1EC;
+    top: 5672px;
+    left: 867px;
+}
+
+.OrderAheadFooter {
+    position: absolute;
+    z-index: 2;
+    font-family: "New Spirit Light";
+    font-size: 30px;
+    color: #F3F1EC;
+    top: 5738px;
+    left: 867px;
+}
+
+.MenuFooter {
+    position: absolute;
+    z-index: 2;
+    font-family: "New Spirit Light";
+    font-size: 30px;
+    color: #F3F1EC;
+    top: 5783px;
+    left: 867px;
+}
+
+.HelpFooter {
+    position: absolute;
+    z-index: 2;
+    font-family: "New Spirit Light";
+    font-size: 30px;
+    color: #F3F1EC;
+    top: 5832px;
+    left: 867px;
+}
+
+.AboutUsTitleFooter {
+    position: absolute;
+    z-index: 2;
+    font-family: "New Spirit SemiBold";
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+    color: #F3F1EC;
+    top: 5672px;
+    left: 1213px;
+}
+
+.OurStoryFooter {
+    position: absolute;
+    z-index: 2;
+    font-family: "New Spirit Light";
+    font-size: 30px;
+    color: #F3F1EC;
+    top: 5738px;
+    left: 1213px;
+}
+
+.InformationTitleFooter {
+    position: absolute;
+    z-index: 2;
+    font-family: "New Spirit SemiBold";
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+    color: #F3F1EC;
+    top: 5672px;
+    left: 1548px;
+}
+
+.FindALocationFooter {
+    position: absolute;
+    z-index: 2;
+    font-family: "New Spirit Light";
+    font-size: 30px;
+    color: #F3F1EC;
+    top: 5738px;
+    left: 1548px;
+}
+
+.JobsFooter {
+    position: absolute;
+    z-index: 2;
+    font-family: "New Spirit Light";
+    font-size: 30px;
+    color: #F3F1EC;
+    top: 5783px;
+    left: 1548px;
+}
+
+.SellYourProductsFooter {
+    position: absolute;
+    z-index: 2;
+    font-family: "New Spirit Light";
+    font-size: 30px;
+    color: #F3F1EC;
+    top: 5832px;
+    left: 1548px;
+}
+
+.ReviewIcon {
+    position: absolute;
+    width: 2%;
+    height: 4%;
+    z-index: 2;
+    top: 6036px;
+    left: 853px;
+}
+
+.Review {
+    position: absolute;
+    z-index: 2;
+    font-family: "New Spirit Light";
+    font-size: 30px;
+    color: #F3F1EC;
+    top: 6007px;
+    left: 904px;
+}
