@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+
+Body {
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+}
+
+.Background {
+		width: 100%;
+}
+
+.TarynSanders {
+	position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 40px;
+    z-index: 2;
+    overflow-x: hidden;
+    left: 224px;
+    top: -2px;
+}
+
+.Home {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 40px;
+    z-index: 2;
+    text-decoration: none;
+    left: 1230px;
+    top: 0px;
+}
+
+.ContactMe {
+	position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 40px;
+    z-index: 2;
+    top: 0px;
+    left: 1437px;
+}
+
+.ProjectsTitle {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 86px;
+    z-index: 2;
+    top: 43px;
+    left: 62px;
+}
+
+.ArrithaCoffeeHouseTitle {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 55px;
+    z-index: 2;
+    top: 229px;
+    left: 45px;
+}
+
+.CoffeeShopWebsiteTitle {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 45px;
+    z-index: 2;
+    top: 320px;
+    left: 45px;
+}
+
+.ArrithaCoffeeHouseImage {
+    position: absolute;
+    z-index: 2;
+    top: 430px;
+    left: 45px;
+}
+
+.SoftwareLogos1 {
+    position: absolute;
+    z-index: 2;
+    top: 264px;
+    left: 1571px;
+}
+
+.ProjectButton1 {
+    position: absolute;
+    z-index: 2;
+    top: 1005px;
+    left: 1390px;
+}
