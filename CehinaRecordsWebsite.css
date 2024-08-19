@@ -1,0 +1,372 @@
+@charset "utf-8";
+/* CSS Document */
+
+Body {
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+}
+
+.Background {
+	width: 100%;
+}
+
+.Logo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.Home {
+    position: absolute;
+    top: 119px;
+    left: 18px;
+    font-family: "Classy Vogue";
+    color: #FFFFFF;
+    font-size: 30px;
+}
+
+.Category {
+    position: absolute;
+    top: 119px;
+    left: -13px;
+    font-family: "Classy Vogue";
+    color: #FFFFFF;
+    font-size: 30px;
+    padding-left: 152px;
+}
+
+.Artist {
+    position: absolute;
+    top: 119px;
+    left: 457px;
+    font-family: "Classy Vogue";
+    color: #FFFFFF;
+    font-size: 30px;
+}
+
+.RewardsProgram {
+    position: absolute;
+    top: 119px;
+    left: 719px;
+    font-family: "Classy Vogue";
+    color: #FFFFFF;
+    font-size: 30px;
+}
+
+.PersonIcon {
+    position: absolute;
+    top: 33px;
+    left: 1840px;
+}
+
+.ShoppingBagIcon {
+    position: absolute;
+    top: 33px;
+    left: 1766px;
+}
+
+.SearchBarIcon {
+    position: absolute;
+    top: 31px;
+    left: 1688px;
+}
+
+.searchbar {
+    position: absolute;
+    top: 39px;
+    left: 1395px;
+    font-family: 'Classy Vogue';
+	outline: none;
+    border: none;
+    font-size: 25px;
+}
+
+#carouselExampleIndicators1 {
+    position: absolute;
+    top: 201px;
+    left: 35px;
+}
+
+.TopSellersTitle {
+    position: absolute;
+    font-family: Nelphim;
+    font-size: 70px;
+    color: #FFFFFF;
+    top: 1081px;
+    left: 752px;
+}
+
+.TopLine_BestSellers {
+    position: absolute;
+    top: 1171px;
+    left: 723px;
+}
+
+.TopSellersBio {
+    position: absolute;
+    font-family: "Classy Vogue";
+    font-size: 35px;
+    color: #FFFFFF;
+    top: 1173px;
+    left: 719px;
+}
+
+.TopSellers1 {
+    position: absolute;
+    top: 1244px;
+    left: 71px;
+}
+
+.TopSellers2 {
+    position: absolute;
+    top: 1156px;
+    left: 633px;
+}
+
+.TopSellers3 {
+    position: absolute;
+    top: 1139px;
+    left: 1278px;
+}
+
+.BottomLine_TopSellers {
+    position: absolute;
+    top: 1890px;
+    left: 376px;
+}
+
+.NewArrivalsTitle {
+    position: absolute;
+    font-family: Nelphim;
+    font-size: 70px;
+    color: #FFFFFF;
+    top: 2120px;
+    left: 719px;
+    align-content: center;
+}
+
+.TopLine_NewArrivals {
+    position: absolute;
+    top: 2210px;
+    left: 704px;
+}
+
+#Dolly {
+    position: absolute;
+    top: 2242px;
+    left: 31px;
+}
+
+#PinkPantheress {
+    position: absolute;
+    top: 2235px;
+    left: 494px;
+}
+
+#BlackSabbath {
+    position: absolute;
+    top: 2286px;
+    left: 941px;
+}
+
+#AmyWinehouse {
+    position: absolute;
+    top: 2253px;
+    left: 1422px;
+}
+
+.MiddleLine {
+    position: absolute;
+    top: 2893px;
+    left: 376px;
+}
+
+#Metallica {
+    position: absolute;
+    top: 2953px;
+    left: 31px;
+}
+
+#Blink182 {
+    position: absolute;
+    top: 2933px;
+    left: 477px;
+}
+
+#TylerCreator {
+    position: absolute;
+    top: 2945px;
+    left: 951px;
+}
+
+#Florence {
+    position: absolute;
+    top: 2942px;
+    left: 1410px;
+}
+
+.BottomLineNewArrivals {
+    position: absolute;
+    top: 3616px;
+    left: 376px;
+}
+
+#OliviaRodrigo {
+    position: absolute;
+    top: 3993px;
+    left: 119px;
+}
+
+#Madonna {
+    position: absolute;
+    top: 4000px;
+    left: 655px;
+}
+
+#Chappell {
+    position: absolute;
+    top: 3956px;
+    left: 1212px;
+}
+
+.PreOrderTitle {
+    position: absolute;
+    font-family: Nelphim;
+    font-size: 70px;
+    color: #FFFFFF;
+    top: 3873px;
+    left: 787px;
+}
+
+.TopLinePreOrder {
+    position: absolute;
+    top: 3969px;
+    left: 711px;
+}
+
+.BottomLinePreOrder {
+    position: absolute;
+    top: 4642px;
+    left: 376px;
+}
+
+.RewindTitle {
+    position: absolute;
+    font-family: Nelphim;
+    font-size: 70px;
+    color: #FFFFFF;
+    top: 4854px;
+    left: 841px;
+}
+
+.RewindTopLine {
+    position: absolute;
+    top: 4947px;
+    left: 723px;
+}
+
+.RewindTitleBio {
+    position: absolute;
+    font-family: "Classy Vogue";
+    font-size: 35px;
+    color: #FFFFFF;
+    top: 4950px;
+    left: 581px;
+}
+
+#ACDC {
+    position: absolute;
+    top: 4998px;
+    left: 119px;
+}
+
+#Thriller {
+    position: absolute;
+    top: 5025px;
+    left: 1305px;
+}
+
+#Pyromania {
+    position: absolute;
+    top: 4960px;
+    left: 655px;
+}
+
+.RewindBottomLine {
+    position: absolute;
+    top: 5625px;
+    left: 376px;
+}
+
+.HELPFAQ {
+    position: absolute;
+    font-family: Cremona;
+    font-size: 50px;
+    color: #FFFFFF;
+    top: 5925px;
+    left: 279px;
+}
+
+.HELPAbout {
+    position: absolute;
+    font-family: "Classy Vogue";
+    font-size: 40px;
+    color: #FFFFFF;
+    top: 5991px;
+    left: 351px;
+}
+
+.HELPContact {
+    position: absolute;
+    font-family: "Classy Vogue";
+    font-size: 40px;
+    color: #FFFFFF;
+    top: 6050px;
+    left: 312px;
+}
+
+.HELPReturn {
+    position: absolute;
+    font-family: "Classy Vogue";
+    font-size: 40px;
+    color: #FFFFFF;
+    top: 6112px;
+    left: 290px;
+}
+
+.SOCIAL {
+    position: absolute;
+    font-family: Cremona;
+    font-size: 50px;
+    color: #FFFFFF;
+    top: 5925px;
+    left: 844px;
+}
+
+.SORTBY {
+    position: absolute;
+    font-family: Cremona;
+    font-size: 50px;
+    color: #FFFFFF;
+    top: 5925px;
+    left: 1325px;
+}
+
+.SORTArtist {
+    position: absolute;
+    font-family: "Classy Vogue";
+    font-size: 40px;
+    color: #FFFFFF;
+    top: 5991px;
+    left: 1381px;
+}
+
+.SORTCategory {
+    position: absolute;
+    font-family: "Classy Vogue";
+    font-size: 40px;
+    color: #FFFFFF;
+    top: 6050px;
+    left: 1349px;
+}
