@@ -1,0 +1,359 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Setting Body */
+Body {
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+}
+/* Entire background picture */
+.backgrounds {
+	width: 100%;
+	
+}
+/* Portfolio x3 Photo */
+.photo1 {
+    position: absolute;
+    z-index: 3;
+    left: 528px;
+    top: 153px;
+}
+/* Top Lines */
+.TarynSanders {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 40px;
+    z-index: 3;
+    overflow-x: hidden;
+    left: 224px;
+    top: -2px;
+}
+
+.Projects {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 40px;
+    z-index: 4;
+    text-decoration: none;
+    left: 1230px;
+    top: 40px;
+}
+
+.ContactMe {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 40px;
+    z-index: 4;
+    top: 0px;
+    left: 1437px;
+}
+
+.StarsLeft {
+    position: absolute;
+    z-index: 4;
+    top: 83px;
+    left: 39px;
+}
+
+.StarsRight {
+    position: absolute;
+    z-index: 4;
+    top: 1261px;
+    left: 1766px;
+}
+
+/* Second Image next to the introduction */
+.ContactMeInfo {
+    position: absolute;
+    z-index: 5;
+    left: 67px;
+    top: 1324px;
+}
+/* Introduction */
+.Introduction1 {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 85px;
+    z-index: 4;
+    left: 1003px;
+    top: 1255px;
+}
+
+.Introduction2 {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 85px;
+    z-index: 4;
+    padding-top: 0px;
+    left: 1113px;
+    top: 1358px;
+}
+
+.Introduction3 {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Nelphim;
+    font-size: 40px;
+    z-index: 4;
+    left: 921px;
+    top: 1539px;
+}
+/* Education section */
+.Education {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 80px;
+    z-index: 4;
+    left: 57px;
+    top: 2244px;
+}
+
+.EducationIcons {
+    position: absolute;
+    top: 2370px;
+    left: 23px;
+}
+
+.EducationInfo1 {
+    font-family: Nelphim;
+    font-size: 40px;
+    color: #D9D6CF;
+    position: absolute;
+    top: 2383px;
+    left: 113px;
+}
+
+.EducationInfo2 {
+    font-family: Nelphim;
+    font-size: 30px;
+    color: #D9D6CF;
+    position: absolute;
+    top: 2438px;
+    left: 114px;
+}
+
+.EducationInfo3 {
+    font-family: Nelphim;
+    font-size: 30px;
+    color: #D9D6CF;
+    position: absolute;
+    top: 2478px;
+    left: 115px;
+}
+
+.EducationInfo4 {
+    font-family: Nelphim;
+    font-size: 40px;
+    color: #D9D6CF;
+    position: absolute;
+    left: 110px;
+    top: 2584px;
+}
+
+.EducationInfo5 {
+    font-family: Nelphim;
+    font-size: 30px;
+    color: #D9D6CF;
+    position: absolute;
+    top: 2640px;
+    left: 114px;
+}
+
+.EducationInfo6 {
+    font-family: Nelphim;
+    font-size: 30px;
+    color: #D9D6CF;
+    position: absolute;
+    top: 2676px;
+    left: 112px;
+}
+
+/* Organization Section */
+.Organizations {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 80px;
+    z-index: 4;
+    top: 2207px;
+    left: 1225px;
+}
+
+.OrganizationsIcons {
+    position: absolute;
+    top: 2346px;
+    left: 1200px;
+}
+
+
+.OrganizationInfo1 {
+    font-family: Nelphim;
+    font-size: 40px;
+    color: #D9D6CF;
+    position: absolute;
+    top: 2361px;
+    left: 1285px;
+}
+
+.OrganizationInfo2 {
+    font-family: Nelphim;
+    font-size: 30px;
+    color: #D9D6CF;
+    position: absolute;
+    top: 2417px;
+    left: 1293px;
+}
+
+.OrganizationInfo3 {
+    font-family: Nelphim;
+    font-size: 30px;
+    color: #D9D6CF;
+    position: absolute;
+    top: 2453px;
+    left: 1293px;
+}
+
+.OrganizationInfo4 {
+    font-family: Nelphim;
+    font-size: 40px;
+    color: #D9D6CF;
+    position: absolute;
+    top: 2561px;
+    left: 1287px;
+}
+
+.OrganizationInfo5 {
+    font-family: Nelphim;
+    font-size: 30px;
+    color: #D9D6CF;
+    position: absolute;
+    top: 2620px;
+    left: 1287px;
+}
+
+.OrganizationInfo6 {
+    font-family: Nelphim;
+    font-size: 30px;
+    color: #D9D6CF;
+    position: absolute;
+    top: 2659px;
+    left: 1287px;
+}
+
+/* Coding Skills Section */
+.CodingSkills {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 80px;
+    z-index: 4;
+    top: 2745px;
+    left: 77px;
+}
+
+.CodingSkillsImage {
+	width: auto;
+    position: absolute;
+    top: 2936px;
+    left: 69px;
+}
+
+/* Software Skills Section */
+.SoftwareSkills {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 80px;
+    z-index: 4;
+    padding-top: 0px;
+    top: 2823px;
+    left: 1170px;
+}
+
+.SoftwareSkillsImage {
+    width: auto;
+    position: absolute;
+    top: 3032px;
+    left: 1569px;
+}
+
+.StarsLeftFooter {
+    position: absolute;
+    z-index: 4;
+    left: 62px;
+    top: 3169px;
+}
+
+/* Footer Text Section */
+.ProjectsTabText {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Nelphim;
+    font-size: 50px;
+    left: 146px;
+    top: 3189px;
+}
+
+.ProjectsTabBox {
+    position: absolute;
+    top: 3323px;
+    left: 158px;
+}
+
+.ContactMeText {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Nelphim;
+    font-size: 50px;
+    left: 146px;
+    top: 3576px;
+}
+
+.ContactMeBox {
+    position: absolute;
+    top: 3716px;
+    left: 147px;
+}
+
+.FooterText1 {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 80px;
+    left: 1187px;
+    top: 3372px;
+}
+
+.FooterText2 {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Nelphim;
+    font-size: 40px;
+    left: 995px;
+    top: 3556px;
+}
+
+.FooterText3 {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Nelphim;
+    font-size: 40px;
+    left: 998px;
+    top: 3741px;
+}
+
+.FooterText4 {
+    position: absolute;
+    color: #D9D6CF;
+    font-family: Aesthetic;
+    font-size: 40px;
+    left: 1476px;
+    top: 3920px;
+}
