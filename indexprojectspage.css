@@ -29,18 +29,8 @@ Body {
     font-size: 40px;
     z-index: 2;
     text-decoration: none;
-    left: 1230px;
-    top: 41px;
-}
-
-.ContactMe {
-	position: absolute;
-    color: #D9D6CF;
-    font-family: Aesthetic;
-    font-size: 40px;
-    z-index: 2;
-    top: 0px;
-    left: 1437px;
+    left: 1274px;
+    top: 38px;
 }
 
 .ProjectsTitle {
@@ -85,6 +75,16 @@ Body {
     z-index: 2;
     top: 264px;
     left: 1571px;
+}
+
+.CoffeeHouseDescription {
+    position: absolute;
+    top: 436px;
+    left: 1414px;
+    color: #D9D6CF;
+    font-family: Nelphim;
+    font-size: 33px;
+    z-index: 2;
 }
 
 .ProjectButton1 {
